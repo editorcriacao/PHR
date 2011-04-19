@@ -1,0 +1,90 @@
+body{
+    padding: 10px;
+}
+
+#bg-header{
+    background-image: url(../img/bg-fundo-header.png);
+    height: 21px;
+    width: 976px;
+    margin: 0 auto;
+}
+
+#todo{
+    background-image: url(../img/bg-fundo-caixa.png);
+    width: 976px;
+    min-height: 900px;
+    margin: 0 auto;
+}
+
+#bg-footer{
+    background-image: url(../img/bg-rodape-footer.png);
+    height: 35px;
+    width: 976px;
+    margin: 0 auto;
+}
+
+
+/* HEADER */
+#header{
+    width: 935px;
+    margin: 0 auto;
+}
+
+#header li{
+    display: inline;
+    float: left;
+}
+
+#header .logo{
+    margin-left: 20px;
+}
+
+#header .menu{
+    background-image: url(../img/bg-header-menu.png);
+    width: 529px;
+    height: 112px;
+    display: block;
+}
+
+#header .header-img{
+    float: right;
+    margin-right: -21px;
+}
+
+#menu-header{
+    width: 420px;
+    margin-left: 88px;
+    display: inline-block;
+}
+
+#menu-header li{
+
+}
+
+#menu-header .azul{
+    background-image: url(../img/bg-azul.png);
+    width: 90px;
+    height: 50px;
+    
+}
+
+#menu-header .rosa{
+    background-image: url(../img/bg-rosa.png);
+    width: 92px;
+    height: 50px;
+    margin-left: 14px;
+}
+
+#menu-header .amarelo{
+    background-image: url(../img/bg-amarelo.png);
+    width: 92px;
+    height: 50px;
+    margin-left: 14px;
+}
+
+#menu-header .preto{
+    background-image: url(../img/bg-preto.png);
+    width: 91px;
+    height: 50px;
+    margin-left: 15px;
+}

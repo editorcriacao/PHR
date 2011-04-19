@@ -1,0 +1,31 @@
+/* HEADER */
+
+#menu-header li a{
+    font-family: arial;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    margin-top: 60px;
+    margin-left: 5px;
+}
+
+#menu-header li a:hover{
+    text-decoration: underline;
+}
+
+.azul a{
+    color: #009ee0;
+}
+
+.rosa a{
+    color: #e2007a;
+}
+
+.amarelo a{
+    color: #fdc503;
+}
+
+.preto a{
+    color: #000;
+}

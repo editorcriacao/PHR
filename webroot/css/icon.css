@@ -1,0 +1,24 @@
+.youtube{
+    background-image: url(../img/icon/youtube-icon.png);
+    width: 16px;
+    height: 16px;
+    display: block;
+    cursor: pointer;
+}
+
+.facebook{
+    background-image: url(../img/icon/facebook-icon.png);
+    width: 16px;
+    height: 16px;
+    display: block;
+    cursor: pointer;    
+}
+
+
+.twitter{
+    background-image: url(../img/icon/twitter-icon.png);
+    width: 16px;
+    height: 16px;
+    display: block;
+    cursor: pointer;
+}
